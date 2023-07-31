@@ -12,7 +12,7 @@ I am a cpp programmer, a front-end developer, and a tech enthusiast🤔.
 
 Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,aws,linux,mysql,node.js,py,react,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,aws,linux,mysql,nodejs,py,react,vscode)](https://skillicons.dev)
 
 
 
