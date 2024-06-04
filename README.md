@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Vinaya</h1>
-<h3 >A passionate CPP programmer , frontend developer  and a Tech Enthusiast from India</h3>
+<h3 >A passionate JAVA programmer , frontend developer  and a Tech Enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
